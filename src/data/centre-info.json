@@ -1,0 +1,102 @@
+{
+  "name": "Roots Empowerment Inclusive Learning Centre",
+  "tagline": "Nurturing Potential, Empowering Growth",
+  "logo": "https://i.ibb.co/WvZMW5dP/IMG-20260420-WA0014.jpg",
+  "contact": {
+    "phone": "+1 204-887-7777",
+    "email": "hello@rootsempowerment.com",
+    "address": "591 Notre Dame Ave, Winnipeg, MB R3B 1S6, Canada",
+    "hours": "Mon - Fri: 7:30 AM - 6:00 PM"
+  },
+  "socials": {
+    "facebook": "https://facebook.com/rootsempowerment",
+    "instagram": "https://instagram.com/rootsempowerment",
+    "linkedin": "https://linkedin.com/company/rootsempowerment"
+  },
+  "about": {
+    "mission": "To provide a safe, nurturing, and inclusive environment where children of all abilities can thrive, learn, and reach their full potential through specialized care and evidence-based learning strategies.",
+    "vision": "A world where every child, regardless of their unique needs, is empowered to grow, belong, and succeed.",
+    "story": "Founded in 2015, Roots Empowerment began with a simple belief: that every child deserves a learning environment tailored to their unique rhythm. Our team of specialists, educators, and therapists work in harmony to create a 'home away from home' that celebrates neurodiversity.",
+    "values": [
+      {
+        "title": "Inclusion",
+        "description": "We celebrate diversity and ensure every child feels they belong."
+      },
+      {
+        "title": "Empowerment",
+        "description": "We provide the tools for children to gain independence and confidence."
+      },
+      {
+        "title": "Compassion",
+        "description": "Every interaction is rooted in empathy and deep understanding."
+      },
+      {
+        "title": "Innovation",
+        "description": "We use evidence-based, creative strategies for specialized learning."
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Early Intervention",
+      "description": "Specialized programs for toddlers and preschoolers to support developmental milestones in a playful, supportive setting.",
+      "icon": "Baby"
+    },
+    {
+      "title": "Therapeutic Support",
+      "description": "On-site speech, occupational, and physical therapy integrated into the daily learning routine.",
+      "icon": "HeartPulse"
+    },
+    {
+      "title": "Inclusive Classrooms",
+      "description": "Small class sizes with high teacher-to-student ratios, ensuring personalized attention for every child.",
+      "icon": "Users"
+    },
+    {
+      "title": "Family Workshops",
+      "description": "Regular sessions for parents and caregivers to provide tools and community support for the journey at home.",
+      "icon": "BookOpen"
+    }
+  ],
+  "programs": [
+    {
+      "name": "Sprouts (Ages 2-4)",
+      "focus": "Sensory exploration, social interaction, and foundational communication skills.",
+      "image": "https://picsum.photos/seed/sprouts/800/600"
+    },
+    {
+      "name": "Seedlings (Ages 5-7)",
+      "focus": "Academic readiness, emotional regulation, and peer collaboration.",
+      "image": "https://picsum.photos/seed/seedlings/800/600"
+    },
+    {
+      "name": "Saplings (Ages 8-12)",
+      "focus": "Life skills, independence, and advanced social-emotional learning.",
+      "image": "https://picsum.photos/seed/saplings/800/600"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Roots Empowerment has been a game-changer for our son. The progress he's made in his social skills is nothing short of miraculous.",
+      "author": "Sarah J., Parent"
+    },
+    {
+      "quote": "The level of care and expertise here is unmatched. They don't just see a diagnosis; they see the child.",
+      "author": "Michael R., Parent"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the teacher-to-student ratio?",
+      "answer": "We maintain a high ratio of 1:3 for our younger groups and 1:5 for older children, ensuring every child receives the attention they need."
+    },
+    {
+      "question": "Do you offer financial assistance?",
+      "answer": "Yes, we work with several local and national grant programs and offer sliding scale fees based on family income."
+    },
+    {
+      "question": "Are your therapists certified?",
+      "answer": "Absolutely. All our therapists are fully licensed and board-certified in their respective fields (OT, PT, SLP)."
+    }
+  ]
+}
